@@ -1,5 +1,5 @@
-# Base
-Collection of useful files for new repository's scaffolding.
+# lgbtpp
+Supercharge your applications with this LGBT+ library.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -10,23 +10,22 @@ Collection of useful files for new repository's scaffolding.
 - [License](#license)
 
 ## Installation
-Follow the steps below to make use of Emdees.
+Follow the steps below to make use of lgbtpp.
 
 Clone this repository:
 ```bash
-git clone https://github.com/airscripts/base.git
+git clone https://github.com/airscripts/lgbtpp.git
 ```
 
 ## Usage
-In order to use this project, just click the use as template in the repository's page.
+/
 
 ## Resources
-Here you can list some useful resources about this project:
-- [GitHub Page](https://ghio.airscript.it/base): project's GitHub page.
+/
 
 ## Contributing
 Contributions and suggestions about how to improve this project are welcome!
-Please follow [our contribution guidelines](https://github.com/airscripts/base/blob/main/CONTRIBUTING.md).
+Please follow [our contribution guidelines](https://github.com/airscripts/lgbtpp/blob/main/CONTRIBUTING.md).
 
 ## Support
 If you want to support my work you can do it by following me, leaving a star, sharing my projects or also donating at the links below.  
@@ -40,4 +39,4 @@ Choose what you find more suitable for you:
 </a>
 
 ## License  
-This repository is licensed under [GPL-3.0 License](https://github.com/airscripts/base/blob/main/LICENSE).
+This repository is licensed under [GPL-3.0 License](https://github.com/airscripts/lgbtpp/blob/main/LICENSE).
