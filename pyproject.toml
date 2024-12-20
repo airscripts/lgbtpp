@@ -1,0 +1,16 @@
+[project]
+name = "lgbtpp"
+version = "1.0.0"
+description = "Supercharge your applications with this LGBT+ library."
+authors = [
+    {name = "Francesco Sardone", email = "francesco@airscript.it"},
+    {name = "Simona Goffredo", email = "simona.goffredo98@gmail.com"},
+]
+dependencies = []
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "GPL-3.0"}
+
+
+[tool.pdm]
+distribution = false
